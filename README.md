@@ -1,4 +1,3 @@
-# RCPCC-P
 # RCPCC-P: 基于范围图的点云压缩系统 (Python版)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)

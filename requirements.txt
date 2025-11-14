@@ -1,0 +1,29 @@
+# pcc_project requirements
+# Python 3.8+
+
+# Core dependencies
+numpy>=1.21.0
+opencv-python>=4.5.0
+open3d>=0.15.0
+scipy>=1.7.0
+pyzstd>=0.15.0
+grpcio>=1.40.0
+protobuf>=3.19.0
+pillow>=8.3.0
+matplotlib>=3.4.0
+click>=8.0.0
+tqdm>=4.62.0
+psutil>=5.8.0
+
+# Optional dependencies
+# cupy>=9.0.0
+# pycuda>=2021.0
+# mpi4py>=3.1.0
+
+# Development dependencies
+# pytest>=6.2.0
+# pytest-cov>=2.12.0
+# black>=21.0.0
+# mypy>=0.910
+# flake8>=3.9.0
+# pylint>=2.11.0
